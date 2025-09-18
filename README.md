@@ -1,2 +1,9 @@
-# Jogo-do-Amigo-Secreto
-Meu primeiro Challenge - "Jogo Amigo Secreto"  
+
+## Bem vindo ao Meu primeiro Challenge - "Amigo Secreto"  
+
+
+![toy-story-friend-or-foe](https://github.com/user-attachments/assets/0760e13e-e41a-4bd6-ba26-2a4daaed239e)
+
+~~~
+Aplicando boas praticas para um codigo e leitura para desenvolvedores iniciantes
+~~~
