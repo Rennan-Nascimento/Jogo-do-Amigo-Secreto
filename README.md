@@ -69,3 +69,7 @@ Reportar bugs
 Sugerir novas funcionalidades
 
 Enviar pull requests
+
+# 🌐 Vercel 
+[🔗 **Acesse o projeto online**](https://jogo-do-amigo-secreto-orcin.vercel.app/)
+
