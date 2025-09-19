@@ -19,36 +19,13 @@ Um projeto interativo e divertido para sortear amigos secretos! Desenvolvido com
 # 🚀 Como usar
 Adicione os nomes dos participantes no campo de texto
 
-Clique em "Adicionar" ou pressione Enter para incluir na lista
+Clique em "Adicionar" para incluir na lista
 
 Verifique a lista de participantes adicionados
 
 Clique em "Sortear amigo" para realizar o sorteio aleatório
 
 Veja o resultado do amigo secreto sorteado!
-
-🛠️ Tecnologias utilizadas
-HTML5 - Estrutura semântica
-
-CSS3 - Estilização moderna
-
-JavaScript - Interatividade e lógica
-
-Google Fonts - Tipografia (Inter e Merriweather)
-
-# 📦 Instalação
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/amigo-secreto.git
-
-# Entre na pasta do projeto
-cd amigo-secreto
-
-# Abra no navegador
-open index.html
-```
-
 
 # 🎨 Personalização
 O projeto é fácil de personalizar! Você pode:
