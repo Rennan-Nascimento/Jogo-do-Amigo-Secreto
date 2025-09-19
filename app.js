@@ -6,7 +6,7 @@ function adicionarAmigo() {
 } 
 
 if (nomeAmigo === '') {
-    alert("Por favor, insira um amigo.");
+    alert("Por favor, insira um nome.");
     return;
 } 
 
@@ -22,6 +22,7 @@ function atualizarListaAmigos() {
        listaAmigos.innerHTML += `<li>${amigo}</>;</li>`;
     });
 }
+
 
 
 
