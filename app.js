@@ -6,7 +6,7 @@ function adicionarAmigo() {
 } 
 
 if (nomeAmigo === '') {
-    alert("Por favor, insira um nome.");
+    alert("Por favor, insira um amigo.");
     return;
 } 
 
