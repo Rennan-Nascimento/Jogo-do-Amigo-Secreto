@@ -6,15 +6,15 @@
 Um projeto interativo e divertido para sortear amigos secretos! Desenvolvido com HTML, CSS e JavaScript.
 
 # ✨ Funcionalidades
-✅ Adicionar nomes à lista de participantes
+🚀 Funcionalidades implementadas:
 
-✅ Validação de campos vazios e duplicados
-
-✅ Visualização em tempo real da lista
-
-✅ Sorteio aleatório de amigo secreto
-
-✅ Interface limpa e responsiva
+✅ Adicionar nomes à lista (com validação para evitar duplicatas)
+✅ Visualizar todos os amigos adicionados em tempo real
+✅ Remover nomes individualmente com um simples clique
+✅ Sortear um amigo aleatório (apenas com 3 ou mais participantes)
+✅ Reiniciar o jogo completamente
+✅ Interface responsiva e acessível
+✅ Validações para garantir uma experiência fluida
 
 # 🚀 Como usar
 Adicione os nomes dos participantes no campo de texto
