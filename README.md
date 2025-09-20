@@ -8,12 +8,12 @@ Um projeto interativo e divertido para sortear amigos secretos! Desenvolvido com
 # ✨ Funcionalidades
 🚀 Funcionalidades implementadas:
 
-✅ Adicionar nomes à lista (com validação para evitar duplicatas)
-✅ Visualizar todos os amigos adicionados em tempo real
-✅ Remover nomes individualmente com um simples clique
+✅ Adicionar nomes à lista (com validação para evitar duplicatas) 
+✅ Visualizar todos os amigos adicionados em tempo real 
+✅ Remover nomes individualmente com um simples clique 
 ✅ Sortear um amigo aleatório (apenas com 3 ou mais participantes)
-✅ Reiniciar o jogo completamente
-✅ Interface responsiva e acessível
+✅ Reiniciar o jogo completamente 
+✅ Interface responsiva e acessível 
 ✅ Validações para garantir uma experiência fluida
 
 # 🚀 Como usar
